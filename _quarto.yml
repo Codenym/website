@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "."
+  favicon: favicon.png
+  title: "Codenym"
   navbar:
     right:
       - index.qmd
