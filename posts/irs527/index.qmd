@@ -1,9 +1,9 @@
 ---
 title: "IRS 527 Organizations"
 author: "Isaac Flath"
-date: "2023-12-31"
+date: "2024-01-01"
 categories: [527 Political Orgs]
-image: "thumbnail.jpg"
+image: "thumbnail.png"
 ---
 
 This is a placeholder for the first article on the IRS 527 dataset.  It will be updated with the full article soon.

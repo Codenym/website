@@ -1,0 +1,9 @@
+---
+title: "Federal Elected Politicians and Votes"
+author: "Felix Flath"
+date: "2024-01-01"
+categories: [Politicians]
+image: "thumbnail.png"
+---
+
+This is a placeholder for the first article on the Federal Elected Politicians and Votes dataset.  It will be updated with the full article soon.
