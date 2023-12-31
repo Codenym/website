@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - index.qmd
-      - articles.qmd
+      - analysis.qmd
       - icon: github
         href: https://github.com/codenym
 format:

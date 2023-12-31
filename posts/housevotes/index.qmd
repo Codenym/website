@@ -2,7 +2,7 @@
 title: "Federal Elected Politicians and Votes"
 author: "Felix Flath"
 date: "2024-01-01"
-categories: [Politicians]
+categories: [Politicians, dataset]
 image: "thumbnail.png"
 ---
 

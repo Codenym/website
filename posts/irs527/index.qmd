@@ -2,7 +2,7 @@
 title: "IRS 527 Organizations"
 author: "Isaac Flath"
 date: "2024-01-01"
-categories: [527 Political Orgs]
+categories: [527 Political Orgs, dataset]
 image: "thumbnail.png"
 ---
 
