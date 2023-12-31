@@ -6,4 +6,4 @@ categories: [527 Political Orgs, dataset]
 image: "thumbnail.png"
 ---
 
-This is a placeholder for the first article on the IRS 527 dataset.  It will be updated with the full article soon.
+527 organizations are tax-exempt non-profits created to influence the selection, nomination, election, appointment or defeat of candidates to public office.
