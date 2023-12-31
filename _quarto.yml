@@ -4,12 +4,16 @@ project:
 website:
   favicon: favicon.png
   title: "Codenym"
+  site-url: https://codenym.github.io/website/
+  description: "The Codenym blog sharing open source datasets and insights on social justice and government transparency topics"
   navbar:
     right:
       - index.qmd
       - analysis.qmd
       - icon: github
         href: https://github.com/codenym
+      - icon: rss
+        href: rss.xml
 format:
   html:
     theme: cosmo
