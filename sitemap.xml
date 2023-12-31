@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/Codenym/website/articles.html</loc>
+    <lastmod>2023-12-31T18:19:14.764Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/Codenym/website/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-31T14:59:56.701Z</lastmod>
+    <lastmod>2023-12-31T18:19:14.092Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Codenym/website/index.html</loc>
-    <lastmod>2023-12-31T14:59:56.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Codenym/website/about.html</loc>
-    <lastmod>2023-12-31T14:59:55.473Z</lastmod>
+    <lastmod>2023-12-31T18:19:13.292Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Codenym/website/posts/welcome/index.html</loc>
-    <lastmod>2023-12-31T14:59:56.437Z</lastmod>
+    <lastmod>2023-12-31T18:19:13.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Codenym/website/posts/irs527/index.html</loc>
+    <lastmod>2023-12-31T18:19:14.336Z</lastmod>
   </url>
 </urlset>
