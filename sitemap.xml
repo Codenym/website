@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/Codenym/website/articles.html</loc>
-    <lastmod>2023-12-31T18:23:37.943Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Codenym/website/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-31T18:23:37.255Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Codenym/website/posts/welcome/index.html</loc>
-    <lastmod>2023-12-31T18:23:36.735Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Codenym/website/index.html</loc>
-    <lastmod>2023-12-31T18:23:36.191Z</lastmod>
+    <loc>https://github.com/Codenym/website/posts/irs527/index.html</loc>
+    <lastmod>2023-12-31T18:45:00.723Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Codenym/website/posts/housevotes/index.html</loc>
-    <lastmod>2023-12-31T18:23:36.995Z</lastmod>
+    <lastmod>2023-12-31T18:45:00.251Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Codenym/website/posts/irs527/index.html</loc>
-    <lastmod>2023-12-31T18:23:37.495Z</lastmod>
+    <loc>https://github.com/Codenym/website/index.html</loc>
+    <lastmod>2023-12-31T18:44:59.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Codenym/website/analysis.html</loc>
+    <lastmod>2023-12-31T18:44:59.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Codenym/website/posts/welcome/index.html</loc>
+    <lastmod>2023-12-31T18:44:59.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Codenym/website/posts/post-with-code/index.html</loc>
+    <lastmod>2023-12-31T18:45:00.487Z</lastmod>
   </url>
 </urlset>
