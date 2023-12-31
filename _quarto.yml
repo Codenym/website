@@ -5,11 +5,10 @@ website:
   title: "."
   navbar:
     right:
-      - about.qmd
+      - index.qmd
+      - articles.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/codenym
 format:
   html:
     theme: cosmo
