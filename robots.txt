@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Codenym/website/sitemap.xml
+Sitemap: https://codenym.github.io/website/sitemap.xml
