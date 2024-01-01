@@ -4,6 +4,7 @@ project:
 website:
   favicon: favicon.png
   title: "Codenym"
+  margin-header: subscribe.html
   site-url: https://codenym.github.io/website/
   description: "The Codenym blog sharing open source datasets and insights on social justice and government transparency topics"
   navbar:
